@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Maple Web
+Comment=Custom Chromium-based browser with built-in proxy routing
+Exec=maple-web
+Icon=io.github.GitDavin.MapleWeb
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
