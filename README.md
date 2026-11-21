@@ -66,4 +66,4 @@ The generated files will appear in the `dist` folder.
 
 ## Maple Web
 
-Thanks for checking out Maple Web! Hope You Enjoy!
+Thanks for checking out Maple Web!
